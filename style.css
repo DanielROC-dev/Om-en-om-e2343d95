@@ -1,0 +1,21 @@
+.box{
+    width: 30px;
+    border: 1px solid black;
+}
+.box td{
+    padding:30px;
+    border:1px solid black;
+}
+.box th{
+    padding:30px;
+    border:1px solid black;
+}
+.box tr{
+    background: black;
+}
+.box td{
+    background: black;
+}
+.box th{
+    background: white;
+}
